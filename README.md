@@ -1,4 +1,4 @@
-## Caio Cesar Ramos da Silva 👨🏼‍💻
+## Caio Cesar Ramos da Silva 👨‍💻
 
 **'Análise e Desenvolvimento de Sistemas'**
 
