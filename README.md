@@ -1,6 +1,6 @@
 ## Caio Cesar Ramos da Silva 👨‍💻
 
-**'Análise e Desenvolvimento de Sistemas'**
+**'Systems Analysis and Development'**
 
 Estudante de Análise e Desenvolvimento de Sistemas pela UNIGUAÇU (União de Ensino Superior do Iguaçu Ltda). Domínio de nível básico de linguagens de programação. Entusiasta da tecnologia, sempre buscando aprender mais sobre o mundo da programação!
 
