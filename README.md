@@ -33,7 +33,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cpluspl
 ###
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=th14goLM&theme=dracula&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=caioramossilva15-dot&theme=dracula&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 
 ###
